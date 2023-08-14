@@ -1,6 +1,6 @@
 # WordPress Plugin
 
-The WordPress Slideshow Plugin empowers you to effortlessly create and manage captivating slideshows on your WordPress site using a simple shortcode. This plugin offers an intuitive admin-side settings page for image management and provides a user-friendly front-end slideshow using your chosen jQuery slideshow library or plugin.
+This WordPress plugin allows you to easily create and manage a slideshow of images using shortcodes. You can upload, remove, and reorder images from the admin settings page and display the slideshow on any page or post using shortcode.
 
 ## Table of Contents
 
